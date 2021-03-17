@@ -1,1 +1,1 @@
-# MedidorTrif-sico
+# MedidorTrifásico
